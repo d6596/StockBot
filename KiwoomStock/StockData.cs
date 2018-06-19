@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace StockBot.KiwoomStock
 {
-    class StockData
+    enum StockDataValuation
     {
+
+    }
+    class StockData:ICloneable
+    {
+        public object dataLock_ { get; set; }
     }
 }
