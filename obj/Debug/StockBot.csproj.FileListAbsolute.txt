@@ -1,0 +1,4 @@
+c:\users\d6596\source\repos\StockBot\StockBot\obj\Debug\StockBot.csprojResolveAssemblyReference.cache
+c:\users\d6596\source\repos\StockBot\StockBot\obj\Debug\StockBot.Properties.Resources.resources
+c:\users\d6596\source\repos\StockBot\StockBot\obj\Debug\StockBot.csproj.GenerateResource.Cache
+c:\users\d6596\source\repos\StockBot\StockBot\obj\Debug\StockBot.csproj.CoreCompileInputs.cache
